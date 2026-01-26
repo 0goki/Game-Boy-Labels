@@ -15,7 +15,7 @@ Custom recreation label stickers for my ongoing GameBoy projects based on origin
 ![CGB-Barcodeai](https://github.com/user-attachments/assets/8680af43-c730-43fe-8223-458e4ca2d6a0)
 
 > [!NOTE]  
-> Uses **Bahnschrift** font.
+> Uses **Bahnschrift** font and **Code 39** barcode standard.
 
 ### Repair
 
