@@ -24,6 +24,13 @@ Custom recreation label stickers for my ongoing Game Boy projects based on origi
 > Uses **Bahnschrift** font and **Code 39** barcode standard
 
 ### Repair
+![CGB-Service](https://github.com/user-attachments/assets/3bce6b23-78d6-4379-ad6f-b7e546e1197a)
+
+> [!TIP]
+> Original label measures 34.0mm by 9.0mm
+
+> [!NOTE]  
+> Uses **Futura PT Cond** font
 
 
 ## MGBC
