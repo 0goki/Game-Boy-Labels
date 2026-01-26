@@ -1,5 +1,5 @@
 # Game-Boy-Labels
-Custom recreation label stickers for my ongoing GameBoy projects based on original Game Boy hardware.
+Custom recreation label stickers for my ongoing Game Boy projects based on original Game Boy hardware.
 
 ## CGB
 ### Center
