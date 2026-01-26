@@ -6,16 +6,22 @@ Custom recreation label stickers for my ongoing GameBoy projects based on origin
 ![CBG-label](https://github.com/user-attachments/assets/126c04e9-e9b2-4953-ba70-d7f5962b1fcd)
 
 > [!IMPORTANT]  
-> Background is set to **BLACK** instead of original **GREY** for better reproduction on laser/LED printers.
+> Background is set to **BLACK** instead of original **GREY** for better reproduction on laser/LED printers
+
+> [!TIP]
+> Original label measures 55.0mm by 24.5mm
 
 > [!NOTE]  
-> Uses **Arial** font.
+> Uses **Arial** font
 
 ### Barcode
 ![CGB-Barcodeai](https://github.com/user-attachments/assets/8680af43-c730-43fe-8223-458e4ca2d6a0)
 
+> [!TIP]
+> Original label measures 49.0mm by 14.0mm
+
 > [!NOTE]  
-> Uses **Bahnschrift** font and **Code 39** barcode standard.
+> Uses **Bahnschrift** font and **Code 39** barcode standard
 
 ### Repair
 
