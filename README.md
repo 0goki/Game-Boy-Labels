@@ -1,4 +1,6 @@
 # Game-Boy-Labels
+![IMG_4955](https://github.com/user-attachments/assets/3ee36fb7-7bd0-46b1-841b-213bd68e8ab1)
+
 Custom recreation label stickers for my ongoing Game Boy projects based on original Game Boy hardware.
 
 ## CGB
