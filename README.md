@@ -37,7 +37,7 @@ A bunch of Game Boy labels and stickers that I redrew and recreated in Adobe Ill
 > [!NOTE]  
 > Uses **Futura PT Cond** font
 
-### EZ-Flash
+## EZ-Flash
 ![GBC Game Label](https://github.com/user-attachments/assets/8fb9f7b1-bbd0-48b7-8fb3-271a8fa047f6)
 
 > [!IMPORTANT]
